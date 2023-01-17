@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/buntdate">
-    <img src="./assets/logo_round.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo_round.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">BuntDate</h3>
   <p align="center">
@@ -30,7 +30,7 @@
 
 ## About The Project
 
-[![ScreenBanner][product-banner]](./assets/banner-2.jpg)
+[![ScreenBanner][product-banner]](https://buntdate.de)
 
 ### BuntDate - Dating and Community
 
